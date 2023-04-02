@@ -37,7 +37,6 @@ namespace task_week1
                             break;
                         }
                     }
-                    Console.WriteLine(s);
                 }
                 string value = "";
                 foreach(int i in result)
