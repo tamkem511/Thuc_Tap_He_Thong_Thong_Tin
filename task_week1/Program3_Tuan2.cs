@@ -41,9 +41,9 @@ namespace task_week1
                 string value = "";
                 foreach(int i in result)
                 {
-                    value += i + "x"; 
+                    value += i + " x "; 
                 }
-                Console.WriteLine(value.Substring(0,value.Length-1));
+                Console.WriteLine("Result = " + value.Substring(0,value.Length-1));
             }
         }
 
