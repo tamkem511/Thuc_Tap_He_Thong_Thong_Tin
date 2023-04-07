@@ -8,11 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Program.cs" />
+    <Compile Remove="ThuHong\BaiTapTuan2_ValidateInput.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Program.cs" />
+    <None Include="ThuHong\BaiTapTuan2_ValidateInput.cs" />
   </ItemGroup>
 
 </Project>
