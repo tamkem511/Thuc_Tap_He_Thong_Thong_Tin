@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Source\\Repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\task_week1.csproj": {}
+    "C:\\Users\\ASUS\\Source\\Repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\BaiTapC_Sharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Source\\Repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\task_week1.csproj": {
+    "C:\\Users\\ASUS\\Source\\Repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\BaiTapC_Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\task_week1.csproj",
-        "projectName": "task_week1",
-        "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\task_week1.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\BaiTapC_Sharp.csproj",
+        "projectName": "BaiTapC_Sharp",
+        "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\BaiTapC_Sharp.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\obj\\",
         "projectStyle": "PackageReference",

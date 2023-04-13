@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\task_week1.csproj",
-      "projectName": "task_week1",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\task_week1.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Source\\Repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\BaiTapC_Sharp.csproj",
+      "projectName": "BaiTapC_Sharp",
+      "projectPath": "C:\\Users\\ASUS\\Source\\Repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\BaiTapC_Sharp.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Source\\Repos\\Thuc_Tap_He_Thong_Thong_Tin\\task_week1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
