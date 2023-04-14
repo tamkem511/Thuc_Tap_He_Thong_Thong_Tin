@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BaiTapC_Sharp",
+    "\\BaiTapC_Sharp\\ThuHong"
   ],
-  "SelectedNode": "\\BaiTapOOP.sln",
+  "SelectedNode": "\\BaiTapC_Sharp\\ThuHong",
   "PreviewInSolutionExplorer": false
 }
