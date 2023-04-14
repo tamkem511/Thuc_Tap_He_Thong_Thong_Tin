@@ -1,5 +1,0 @@
-C:\Users\ASUS\Source\Repos\Thuc_Tap_He_Thong_Thong_Tin\task_week1\obj\Debug\net6.0\BaiTapC_Sharp.csproj.AssemblyReference.cache
-C:\Users\ASUS\Source\Repos\Thuc_Tap_He_Thong_Thong_Tin\task_week1\obj\Debug\net6.0\BaiTapC_Sharp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ASUS\Source\Repos\Thuc_Tap_He_Thong_Thong_Tin\task_week1\obj\Debug\net6.0\BaiTapC_Sharp.AssemblyInfoInputs.cache
-C:\Users\ASUS\Source\Repos\Thuc_Tap_He_Thong_Thong_Tin\task_week1\obj\Debug\net6.0\BaiTapC_Sharp.AssemblyInfo.cs
-C:\Users\ASUS\Source\Repos\Thuc_Tap_He_Thong_Thong_Tin\task_week1\obj\Debug\net6.0\BaiTapC_Sharp.csproj.CoreCompileInputs.cache
