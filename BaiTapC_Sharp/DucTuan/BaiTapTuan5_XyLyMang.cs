@@ -5,44 +5,53 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-
-class DangNhap
-{
-	public const int ID = 1;
-	private string userName;
-	private string passWord;
-	Account acc = new Account();
-
-
-
-	public DangNhap()
+	internal class Bai4_2
 	{
-		userName = "";
-		passWord = "";
-
-	}
-
-	public void Nhap()
-	{
-		Console.Write("Nhap Tai Khoan : ");
-		userName = Console.ReadLine();
-		Console.Write("Nhap Mat Khau : ");
-		passWord = Console.ReadLine();
-		acc.UserName = userName;
-		acc.Password = passWord;
-
-	}
-
-	public void KiemTra(string tk, string mk)
-	{
-		if (acc.UserName == tk && acc.Password == mk)
+		static void Main(string[] args)
 		{
-			Console.WriteLine("Dang Nhap Thanh Cong");
-		}
-		else
-		{
-			Console.WriteLine("Tai Khoan Hoac Mat Khau Khong Chinh Xac !");
+			int n;
+			Console.Write("Nhap n : ");
+			n = Convert.ToInt32(Console.ReadLine());
+			int[] a = new int[n];
+
+			Console.WriteLine("==== Nhap Mang ====");
+			for (int i = 0; i < n; i++)
+			{
+				Console.Write($"Nhap a[{i}] : ");
+				a[i] = Convert.ToInt32(Console.ReadLine());
+			}
+
+			Console.WriteLine("==== Xuat Mang ====");
+			for (int i = 0; i < n; i++)
+			{
+				Console.Write(a[i] + " ");
+			}
+
+			//Sap Xep
+			Array.Sort(a);
+
+			int max = a[0];
+			int max2 = a[0];
+			int vt = 0;
+			for (int i = 1; i < n; i++)
+			{
+				if (a[i] > max)
+				{
+					max = a[i];
+					vt = i;
+				}
+			}
+
+
+			for (int i = 0; i < vt; i++)
+			{
+				if (a[i] > max2)
+				{
+					max2 = a[i];
+				}
+			}
+
+			Console.WriteLine("Max2 = " + max2);
 		}
 	}
-}
 
