@@ -15,12 +15,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhamTienTam", "PhamTienTam"
 		task_week1\TamKem\BaiTapTuan5_ArrayList.cs = task_week1\TamKem\BaiTapTuan5_ArrayList.cs
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapTuan6", "BaiTapTuan6\BaiTapTuan6.csproj", "{6787E311-F6B7-4B02-B8A4-FA510A82F5ED}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6787E311-F6B7-4B02-B8A4-FA510A82F5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6787E311-F6B7-4B02-B8A4-FA510A82F5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6787E311-F6B7-4B02-B8A4-FA510A82F5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6787E311-F6B7-4B02-B8A4-FA510A82F5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{772669AD-761B-48E0-BB1F-24B24DF1A550} = {68E7D362-55FC-48C7-96B3-671A511B6FDA}
+		{6787E311-F6B7-4B02-B8A4-FA510A82F5ED} = {772669AD-761B-48E0-BB1F-24B24DF1A550}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CBF07151-86BA-4307-B4EF-63BEBF1E290D}
